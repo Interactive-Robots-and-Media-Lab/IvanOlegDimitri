@@ -1,0 +1,159 @@
+{"answers":[
+	{
+		"audio_name": "before_flight",
+		"audio_files": [
+			"before_flight1.mp3",
+			"before_flight2.mp3",
+			"before_flight3.mp3"
+		],
+		"tags": [
+			"полетом",
+			"полет",
+			"узнал",
+			"перед",
+			"жизнь",
+			"чувства",
+			"чувствах"
+		]
+	},
+	{
+		"audio_name": "benefit",
+		"audio_files": [
+			"benefit1.mp3",
+			"benefit2.mp3",
+			"benefit3.mp3"
+		],
+		"tags": [
+			"польза",
+			"освоения",
+			"освоение",
+			"космоса",
+			"космического",
+			"пространства"
+		]
+	},
+	{
+		"audio_name": "flight",
+		"audio_files": [
+			"flight1.mp3"
+		],
+		"tags": [
+			"сомнения",
+			"надежность",
+			"надежности",
+			"сомнений",
+			"успешный",
+			"исход",
+			"исходе"
+		]
+	},
+	{
+		"audio_name": "learning",
+		"audio_files": [
+			"learning1.mp3",
+			"learning2.mp3",
+			"learning3.mp3"
+		],
+		"tags": [
+			"учился",
+			"школа",
+			"школе",
+			"училище",
+			"успешный",
+			"вуз"
+		]
+	},
+	{
+		"audio_name": "offer",
+		"audio_files": [
+			"offer1.mp3",
+			"offer2.mp3",
+			"offer3.mp3"
+		],
+		"tags": [
+			"чем",
+			"подумал",
+			"думал",
+			"предложили",
+			"быть",
+			"первым",
+			"чувства"
+		]
+	},
+	{
+		"audio_name": "parting_words",
+		"audio_files": [
+			"parting_words1.mp3"
+		],
+		"tags": [
+			"скажите",
+			"напутствие",
+			"напутственных",
+			"будущим",
+			"поколениям",
+			"хотели",
+			"пожелать",
+			"поколения"
+		]
+	},
+	{
+		"audio_name": "pedigree",
+		"audio_files": [
+			"pedigree1.mp3",
+			"pedigree2.mp3",
+			"pedigree3.mp3"
+		],
+		"tags": [
+			"родолсловная",
+			"родолсловнjq",
+			"родственник",
+			"родословной",
+			"родился",
+			"семью",
+			"семье",
+			"семья"
+		]
+	},
+	{
+		"audio_name": "space",
+		"audio_files": [
+			"space1.mp3",
+			"space2.mp3",
+			"space3.mp3"
+		],
+		"tags": [
+			"космосе",
+			"делал",
+			"видел",
+			"земля",
+			"полёта"
+		]
+	},
+	{
+		"audio_name": "spaceship",
+		"audio_files": [
+			"spaceship1.mp3"
+		],
+		"tags": [
+			"восток",
+			"космическом",
+			"корабле",
+			"космический",
+			"корабль",
+			"надежность"
+		]
+	},
+	{
+		"audio_name": "thanks",
+		"audio_files": [
+			"thanks1.mp3",
+			"thanks2.mp3"
+		],
+		"tags": [
+			"кому",
+			"благодарны",
+			"подлагодарить",
+			"за"
+		]
+	}
+]}
